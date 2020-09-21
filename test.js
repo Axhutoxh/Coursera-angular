@@ -1,3 +1,3 @@
 {
-"author":"Ashutosh",
+"author":"Ashutosh Chandra",
 }
